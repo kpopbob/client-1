@@ -6,7 +6,7 @@
 
 All pull requests, issues or any other activity on the repositories of all KAMI Blue organizations will be ignored completely.
 
-Finally this project is in the bin 🗑️
+Finally this project is in the bin 🗑️665464654646
 
 ## Contributing
 
